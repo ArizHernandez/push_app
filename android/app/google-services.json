@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "217575096875",
+    "firebase_url": "https://firechat-d3ffd.firebaseio.com",
+    "project_id": "firechat-d3ffd",
+    "storage_bucket": "firechat-d3ffd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217575096875:android:6f33e857f7ef50d923206e",
+        "android_client_info": {
+          "package_name": "com.ariz.push_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217575096875-0id7d327o90hdfj3bhkubvb8lhrr8sle.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATLCRL0IBtw3kJ6Wy8ePlhssyvXlMZODk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217575096875-0id7d327o90hdfj3bhkubvb8lhrr8sle.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "217575096875-fuf6dmh212th6cej7erpe2g08cofubro.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ariz.formsApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217575096875:android:40a4359ecab4694123206e",
+        "android_client_info": {
+          "package_name": "com.arizhernandez.forms_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "217575096875-0id7d327o90hdfj3bhkubvb8lhrr8sle.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATLCRL0IBtw3kJ6Wy8ePlhssyvXlMZODk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "217575096875-0id7d327o90hdfj3bhkubvb8lhrr8sle.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "217575096875-fuf6dmh212th6cej7erpe2g08cofubro.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ariz.formsApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -18,7 +18,9 @@ class HomeScreen extends StatelessWidget {
         ),
         actions: [
           IconButton(
-            onPressed: () {},
+            onPressed: () {
+              context.read<NotificationsBloc>().requestPermission();
+            },
             icon: const Icon(Icons.settings),
           ),
         ],
